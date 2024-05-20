@@ -1,9 +1,24 @@
-<mxfile host="app.diagrams.net" modified="2024-05-20T18:41:44.943Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" version="24.4.4" etag="Tu8iYbKwRWn-47IoR6nV" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-20T18:42:50.032Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="JYhcKQxUDD-dO5kFlgib" version="24.4.4" type="github">
   <diagram name="第 1 页" id="m5dQrLDf80J-uqpNvJqO">
-    <mxGraphModel>
+    <mxGraphModel dx="1434" dy="738" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="gysjwkPiiK4Oy2A9Jk2u-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=18;endArrow=none;endFill=0;" edge="1" parent="1" source="gysjwkPiiK4Oy2A9Jk2u-1" target="gysjwkPiiK4Oy2A9Jk2u-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gysjwkPiiK4Oy2A9Jk2u-1" value="用户加入机构表" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="354" y="280" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gysjwkPiiK4Oy2A9Jk2u-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=18;endArrow=none;endFill=0;" edge="1" parent="1" source="gysjwkPiiK4Oy2A9Jk2u-2" target="gysjwkPiiK4Oy2A9Jk2u-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gysjwkPiiK4Oy2A9Jk2u-2" value="&lt;u&gt;机构id&lt;/u&gt;" style="ellipse;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="150" y="270" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="gysjwkPiiK4Oy2A9Jk2u-3" value="&lt;u&gt;用户id&lt;/u&gt;" style="ellipse;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="560" y="270" width="120" height="80" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
