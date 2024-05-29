@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-29T08:38:21.839Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="2rvFCNCQaA9_1kj55nYs" version="24.4.9" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-29T08:50:07.305Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="FpmMjaUolsrUqwzOsJOk" version="24.4.9" type="github">
   <diagram name="第 1 页" id="QIkSNU2lJWrrcMK7OgB3">
     <mxGraphModel dx="683" dy="351" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -133,7 +133,7 @@
             <mxPoint y="-12" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="RuP5DusUmNIFuySBbjsR-86" value="公益上海App" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=none;fontSize=13;labelBackgroundColor=none;" parent="1" vertex="1">
+        <mxCell id="RuP5DusUmNIFuySBbjsR-86" value="公益上海App" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=none;fontSize=16;labelBackgroundColor=none;" parent="1" vertex="1">
           <mxGeometry x="415" y="10" width="120" height="20" as="geometry" />
         </mxCell>
       </root>
